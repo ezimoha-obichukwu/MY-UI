@@ -1,0 +1,84 @@
+body{
+    margin: 0px;
+    background-color: linen;
+    align-items: center;
+    font-family: cursive;
+}
+.container{
+    background-color:rgb(157, 220, 33);
+    box-shadow: slategray;
+    position: sticky;
+    top: 0%;
+    margin: 0%;
+    padding: 1px;
+}
+.nav-content{
+    background-color: whitesmoke;
+    text-align: center;
+    width: 70px;
+    margin: 1%;
+    border-radius: 5px;
+}
+{
+    text-decoration: none;
+    color: indigo;
+}
+.sec-container{
+    background-origin: border-box;
+    background-color: cyan;
+}
+.container2{
+    background-color:rgb(137, 184, 43);
+    padding-top: 10%;
+    padding-bottom: 5%;
+    text-align: center;
+
+}
+.profile-pics img{
+    width: 78%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+.profile-description{
+    color: white;
+    font-size: 35px;
+    line-height: 50px;
+
+}
+.features{
+    background-color:palegreen;
+    padding: 1px;
+}
+.desc{
+    list-style-type: none;
+    color:black;
+}
+.fl{
+    text-decoration: none;
+    color: indigo;
+}
+.sub-topic{
+    margin: 10%;
+}
+.article{
+    background-color:lemonchiffon;
+    margin: 5%;
+    padding: 2px;
+    border-radius: 10px;
+    align-items: center;
+    color: black;
+}
+.article2{
+    background-color: lemonchiffon;
+    margin: 5%;
+    padding: 2px;
+    border-radius: 10px;
+    align-items: center;
+}
+.fo{
+    text-decoration: none;
+}
+/*.app-footer{
+    background-color: rgb(137, 184, 43);
+}
